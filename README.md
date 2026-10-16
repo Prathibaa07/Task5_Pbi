@@ -52,6 +52,20 @@ The project uses a dimensional data-modeling approach:
 
 The model separates descriptive information from transactional billing information, making it easier to perform analysis and build Power BI reports.
 
+##Screenshots:
+##Formula:
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-16 134841" src="https://github.com/user-attachments/assets/ead20020-64ab-4142-9462-32c36a571f3a" />
+
+##Model View:
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-16 145216" src="https://github.com/user-attachments/assets/991f5dcc-dd5b-4111-bb0e-a2812b13270f" />
+
+##Table View:
+<img width="1920" height="1080" alt="Screenshot 2026-10-16 145235" src="https://github.com/user-attachments/assets/4039f5cb-1fa9-49c2-a26f-9ee9ccf249b0" />
+
+
+
 ## Tools and Technologies
 
 - **Microsoft Power BI**
